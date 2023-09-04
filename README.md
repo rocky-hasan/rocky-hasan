@@ -2,6 +2,7 @@
 ### Hi there 👋, my name is Rakibul Hasan
 #### Web Developer
 
+
 ### About Me
 
 Hi there! 👋 I'm [YouNam, a passionate software developer with a love for web development and a focus on using Django to build robust and scalable web applications. I'm based in Dhaka
@@ -43,7 +44,7 @@ Skills: Python / Django / Bootstrap/ HTML / CSS
 - 💬 Ask me about Web Development 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rocky-hasan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Rocky Hasan)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rocky-hasan)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rocky-hasan)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -56,4 +57,3 @@ Skills: Python / Django / Bootstrap/ HTML / CSS
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=rocky-hasan)  
 
 ![Profile views](https://gpvc.arturio.dev/rocky-hasan)  
-
