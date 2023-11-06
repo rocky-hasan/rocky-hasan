@@ -23,6 +23,7 @@ Here are some of the technologies and tools I frequently use:
 
 - Python/Django
 - HTML/CSS/JavaScript
+- SQL
 
 #### 🌱 Current Goals
 
