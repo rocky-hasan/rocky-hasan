@@ -38,9 +38,8 @@ Feel free to reach out to me if you'd like to discuss web development, share ide
 Looking forward to connecting with fellow developers and exploring the endless possibilities of web development! 🚀
 
 
-Skills: Python / Django / Bootstrap/ HTML / CSS
+Skills: Python / Django / SQL / Bootstrap/ HTML / CSS
 
-- 🌱 I’m currently learning Mysql 
 - 👯 I’m looking to collaborate on github or linkedin 
 - 💬 Ask me about Web Development 
 
