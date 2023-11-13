@@ -1,11 +1,10 @@
-![Web Developer](https://scontent.fdac147-1.fna.fbcdn.net/v/t39.30808-6/370109294_3666181813662127_3055339958122980534_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeGaFsUE7-MaUKF0KOPyAWM28rj0-qktVn3yuPT6qS1WfahAsLywSxVFLMpH2Bprjh928mEgjpRwztfWA4QpRWci&_nc_ohc=Q-rShNj3w_4AX8ulObW&_nc_ht=scontent.fdac147-1.fna&oh=00_AfAUD-Nh_2gczjUj1jdx0BA6QI_O20o-UbFPxy6mVE13Xw&oe=64FBECD3)
 ### Hi there 👋, my name is Rakibul Hasan
 #### Web Developer
 
 
 ### About Me
 
-Hi there! 👋 I'm [YouNam, a passionate software developer with a love for web development and a focus on using Django to build robust and scalable web applications. I'm based in Dhaka
+Hi there! 👋 I'm [Rakibul Hasan, a passionate software developer with a love for web development and a focus on using Django to build robust and scalable web applications. I'm based in Dhaka
 
 #### 🚀 What I Love
 
