@@ -1,12 +1,12 @@
-### Hi there 👋, my name is Rakibul Hasan
+## Hi I am Rakibul Hasan
 #### Backend Developer
 
 
-### About Me
+# About Me
 
 Hi there! 👋 I'm [Rakibul Hasan, a passionate software developer with a love for web development and a focus on using Django to build robust and scalable web applications. I'm based in Dhaka
 
-#### 🚀 What I Love
+# 🚀 What I Love
 
 I'm deeply enthusiastic about:
 
@@ -37,7 +37,7 @@ Feel free to reach out to me if you'd like to discuss web development, share ide
 Looking forward to connecting with fellow developers and exploring the endless possibilities of web development! 🚀
 
 
-Skills: Python / Django / SQL / Bootstrap/ HTML / CSS
+Skills: Python / Django / DRF / SQL / Bootstrap/ HTML / CSS
 
 - 👯 I’m looking to collaborate on github or linkedin 
 - 💬 Ask me about Web Development 
