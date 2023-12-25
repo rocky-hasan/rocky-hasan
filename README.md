@@ -32,7 +32,7 @@ My ongoing goals include:
 
 #### 📫 Let's Connect
 
-Feel free to reach out to me if you'd like to discuss web development, share ideas, or collaborate on exciting projects. You can connect with me on [LinkedIn](https://www.linkedin.com/in/rakibul-hasan-54a45313a/)
+Feel free to reach out to me if you'd like to discuss web development, share ideas, or collaborate on exciting projects. You can connect with me on [LinkedIn]https://www.linkedin.com/in/rakibulhasanbhuiyan/
 
 Looking forward to connecting with fellow developers and exploring the endless possibilities of web development! 🚀
 
