@@ -20,7 +20,7 @@ I'm deeply enthusiastic about:
 
 Here are some of the technologies and tools I frequently use:
 
-- Python/Django/DRF/
+- Python(numpy,Pandas,matplotlib)/Django/DRF/
 - HTML/CSS/JavaScript
 - SQL,PostgreSQL
 
